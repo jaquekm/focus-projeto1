@@ -1,6 +1,6 @@
 export default{
     root: 'src',
-    base: 'https://jrmessias.com.br/focus0/',
+    base: 'https://jaquekm.github.io/',
     build: {
         outDir: '../dist'
     }
